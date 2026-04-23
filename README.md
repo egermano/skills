@@ -14,6 +14,11 @@ Personal repository for skills I use on a daily basis.
 - Include concise usage notes and examples.
 - Keep files small, focused, and easy to scan.
 
+## Local Skills
+
+- `skills/split-commits-by-diff/SKILL.md`
+- `skills/create-pr-with-template/SKILL.md`
+
 ## Usage
 
 Use this repository as a personal knowledge base for repeatable tasks and day-to-day execution.
