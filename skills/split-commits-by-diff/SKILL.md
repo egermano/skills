@@ -1,8 +1,3 @@
----
-name: split-commits-by-diff
-description: Split mixed git changes into coherent commit groups based on diff intent, then stage and create one commit per group. Use this whenever the user asks to organize messy changes, create multiple commits from one diff, or "split commits" from git status/diff.
----
-
 # Split Commits by Diff
 
 Use this skill to turn a mixed working tree into clean, scoped commits.
