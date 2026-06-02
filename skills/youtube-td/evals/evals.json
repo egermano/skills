@@ -1,0 +1,17 @@
+{
+  "skill_name": "youtube-td",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create YouTube titles and descriptions for this video concept: How to optimize images for e-commerce using Azion's Image Processor, reducing load times and improving Core Web Vitals scores.",
+      "expected_output": "5 title ideas, video description with SEO-optimized first paragraph, 10-15 English keywords, and suggested timestamps",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I need YouTube metadata for a video about setting up a highly distributed SQL database on Azion for a real-time analytics dashboard.",
+      "expected_output": "5 title ideas, video description, English keywords, timestamps — should use Azion terminology (distributed not edge)",
+      "files": []
+    }
+  ]
+}
