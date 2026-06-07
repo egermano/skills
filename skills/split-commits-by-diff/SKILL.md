@@ -1,3 +1,8 @@
+---
+name: split-commits-by-diff
+description: Split Git commits by diff hunks to create clean, scoped changes.
+---
+
 # Split Commits by Diff
 
 Use this skill to turn a mixed working tree into clean, scoped commits.
