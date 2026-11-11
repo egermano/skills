@@ -37,6 +37,7 @@ This installs the selected skill into your local skills directory.
 | `cleanup-to-main` | Clean up local git branches removed from remote |
 | `create-pr-with-template` | Create GitHub PRs with repository templates |
 | `split-commits-by-diff` | Split mixed git changes into coherent commits |
+| `escrever-como-bruno` | Write and edit in Bruno Germano’s voice in Brazilian Portuguese |
 | `xp` | Extreme Programming practices and roles reference |
 
 ## Usage

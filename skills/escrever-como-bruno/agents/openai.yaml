@@ -1,0 +1,4 @@
+interface:
+  display_name: "Escrever como Bruno"
+  short_description: "Escreva e revise na voz de Bruno Germano."
+  default_prompt: "Use $escrever-como-bruno para escrever ou revisar este texto na minha voz, preservando os fatos e o nível de detalhe adequado ao público."
