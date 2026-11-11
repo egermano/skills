@@ -1,4 +1,4 @@
-# Amostras para calibrar a voz de Bruno
+# Conversa técnica: amostras complementares da voz de Bruno
 
 ## Origem e uso
 
@@ -6,7 +6,7 @@ Os excertos abaixo vieram de respostas escritas por Bruno numa sessão de planej
 
 Os blocos de citação preservam os pequenos trechos originais, inclusive erros de digitação. Os exemplos revisados são adaptações editoriais, não novas citações do autor. Servem para mostrar como limpar a escrita sem trocar o raciocínio.
 
-Esta amostra sustenta um registro técnico e conversacional. Ela não permite presumir como Bruno escreve ficção, humor, textos formais ou outros gêneros sem exemplos adicionais.
+Esta amostra sustenta um registro técnico e conversacional, com foco em execução e liderança. Complemente-a com [as amostras históricas do OBG](amostras-historicas.md), que mostram mais didática, analogias, opinião e humor. As respostas desta conversa não devem reduzir todo o repertório do autor ao tom de uma entrevista técnica.
 
 ## 1. Ele nomeia a própria contribuição
 
